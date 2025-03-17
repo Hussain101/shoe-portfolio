@@ -11,7 +11,7 @@ export const Hero = () => {
 				<button
 					onClick={() =>
 						alert(
-							"I wont take you there scroll down for yourself. Sheesh!!"
+							"Let's gp"
 						)
 					}
 					className="bg-red-800 p-2 rounded-lg text-white mt-5 hover:bg-red-500 hover:scale-110 hover:text-white transition duration-500"
